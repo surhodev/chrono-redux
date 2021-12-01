@@ -1,0 +1,20 @@
+{
+  "name": "chrono-redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.6.2",
+    "redux": "^4.1.2"
+  }
+}
